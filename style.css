@@ -1,0 +1,29 @@
+h1, h2 {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 50px;
+  color: darkorange;
+}
+
+p {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  color: darkorange;
+}
+
+h3 {
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  color: darkorange;
+}
+
+body {
+  background-image: url("https://i.natgeofe.com/n/ed276186-3a2c-4d2a-b3d6-ca745c2d0850/01booktalkbarbariandays_4x3.jpg" );
+  background-size: 1500px;
+}
+
+img {
+  float: left;
+  margin-right: 155px;
+}
